@@ -18,12 +18,12 @@
 
   /* Fonts Color */
   --fg: #3a3a3a; /* Foreground color */
-  --sfg: #494949; /* Sceondary Foreground color */
+  --sfg: #FF9FBE; /* Sceondary Foreground color */
 
   /* Light Colors  */
-  --accent: #57a0d9; /* Hover color */
-  --background: #19171a; /* Background color */
-  --cards: #201e21; /* Cards color */
+  --accent: #FF9FBE; /* Hover color */
+  --background: #FF9FBE; /* Background color */
+  --cards: #3a3a3a; /* Cards color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
@@ -36,12 +36,12 @@
 .darktheme {
   /* Dark Colors  */
   --accent: #FF9FBE; /* Hover color */
-  --background: #904bff; /* Background color */
-  --cards: #201e21; /* Cards color */
+  --background: #FF9FBE; /* Background color */
+  --cards: #3a3a3a; /* Cards color */
 
   /* Fonts Color */
-  --fg: #d8dee9; /* Foreground color */
-  --sfg: #2c292e; /* Secondary Foreground color */
+  --fg: #3a3a3a; /* Foreground color */
+  --sfg: #FF9FBE; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
@@ -244,7 +244,7 @@ body {
 .buttonIcon {
   width: var(--icon);
   height: var(--icon);
-  color: var(--fg);
+  color: var(--sfg);
 }
 
 .button__1 {
@@ -275,7 +275,7 @@ body {
   background-color: var(--accent);
 }
 .button:hover svg {
-  stroke: var(--sfg);
+  stroke: var(--fg);
 }
 
 .listsContainer {
@@ -306,14 +306,14 @@ body {
 .listIcon {
   /* margin-top: 3vh; */
   margin-bottom: 2vh;
-  color: var(--fg);
+  color: var(--sfg);
   width: var(--icon);
   height: var(--icon);
 }
 .listItem {
   text-decoration: none;
   font-size: var(--fg-list);
-  color: var(--fg);
+  color: var(--sfg);
   margin-top: 1vh;
   padding: 8px 12px;
   border-radius: 5px;
@@ -323,7 +323,7 @@ body {
 }
 .listItem:hover {
   background-color: var(--accent);
-  color: var(--sfg);
+  color: var(--fg);
 }
 
 /* M E D I A - Q U E R I E S */
