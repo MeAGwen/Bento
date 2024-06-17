@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Gwen',
+	name: 'Gwen!',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Good Morning,',
+	greetingAfternoon: 'Good Afternoon,',
+	greetingEvening: 'Good Evening,',
+	greetingNight: 'Go to Sleep, ',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
-		},
-		{
-			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
-		},
-		{
-			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'TikTok',
+			icon: 'music-2',
+			link: 'https://tiktok.com/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'GMail',
+			icon: 'mail',
+			link: 'https://mail.google.com/',
+		},
+		{
+			id: '4',
+			name: 'D2L',
+			icon: 'graduation-cap',
+			link: 'https://kennesaw.view.usg.edu/d2l/home',
+		},
+		{
+			id: '3',
+			name: 'Outlook',
+			icon: 'mail-search',
+			link: 'https://outlook.office.com/mail/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Owl Express',
+			icon: 'bird',
+			link: 'https://owlexpress.kennesaw.edu/prodban/twbkwbis.P_WWWLogin',
 		},
 	],
 
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'monitor',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Anime',
+					link: 'https://aniwave.to/home',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Tracker',
+					link: 'https://tracker.gg/valorant/profile/riot/MeAGwen%23silly/overview',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Gankster',
+					link: 'https://valorant.gankster.gg/scrims',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ValoPlant',
+					link: 'https://valoplant.gg/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'glasses',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'GitHub',
+					link: 'https://github.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Repos',
+					link: 'https://github.com/MeAGwen?tab=repositories',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Voice',
+					link: 'https://www.dialectsarchive.com/the-rainbow-passage',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Insurance',
+					link: 'https://mydelta.health/auth/login-credential',
 				},
 			],
 		},
