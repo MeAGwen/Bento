@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://github.com/',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/MeAGwen?tab=repositories',
+					name: 'One Piece',
+					link: 'https://www.reddit.com/r/Piracy/wiki/megathread/',
 				},
 				{
 					name: 'Voice',
