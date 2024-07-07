@@ -70,19 +70,19 @@ const CONFIG = {
 			link: 'https://mail.google.com/',
 		},
 		{
-			id: '4',
+			id: '3',
 			name: 'D2L',
 			icon: 'graduation-cap',
 			link: 'https://kennesaw.view.usg.edu/d2l/home',
 		},
 		{
-			id: '3',
+			id: '6',
 			name: 'Outlook',
 			icon: 'mail-search',
 			link: 'https://outlook.office.com/mail/',
 		},
 		{
-			id: '6',
+			id: '4',
 			name: 'Owl Express',
 			icon: 'bird',
 			link: 'https://owlexpress.kennesaw.edu/prodban/twbkwbis.P_WWWLogin',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Anime',
+					name: 'AniWave',
 					link: 'https://aniwave.to/home',
 				},
 				{
-					name: 'Tracker',
-					link: 'https://tracker.gg/valorant/profile/riot/MeAGwen%23silly/overview',
+					name: 'TCB Scans',
+					link: 'https://tcbscans-manga.com/',
 				},
 				{
-					name: 'Gankster',
-					link: 'https://valorant.gankster.gg/scrims',
+					name: 'Among Us',
+					link: 'https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88d26018-fa1a-4b92-a8b9-d8ed3f9e178e_3840x2160.png',
 				},
 				{
-					name: 'ValoPlant',
-					link: 'https://valoplant.gg/',
+					name: 'One Piece',
+					link: 'https://www.reddit.com/r/Piracy/wiki/megathread/',
 				},
 			],
 		},
@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://github.com/',
 				},
 				{
-					name: 'One Piece',
-					link: 'https://www.reddit.com/r/Piracy/wiki/megathread/',
+					name: 'Tracker',
+					link: 'https://tracker.gg/valorant/profile/riot/MeAGwen%23silly/overview',
 				},
 				{
-					name: 'Voice',
-					link: 'https://www.dialectsarchive.com/the-rainbow-passage',
+					name: 'Gankster',
+					link: 'https://valorant.gankster.gg/scrims',
 				},
 				{
-					name: 'Insurance',
-					link: 'https://mydelta.health/auth/login-credential',
+					name: 'ValoPlant',
+					link: 'https://valoplant.gg/',
 				},
 			],
 		},
