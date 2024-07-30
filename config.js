@@ -166,7 +166,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Tracker',
-					link: 'https://tracker.gg/valorant/profile/riot/MeAGwen%23silly/overview',
+					link: 'https://tracker.gg/valorant/profile/riot/MeowAGwen%23puppy/overview',
 				},
 				{
 					name: 'Gankster',
