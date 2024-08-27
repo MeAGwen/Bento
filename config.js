@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'AniWave',
-					link: 'https://aniwave.to/home',
+					name: 'HiAnime',
+					link: 'https://hianime.to/home',
 				},
 				{
 					name: 'TCB Scans',
