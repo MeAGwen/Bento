@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://mangareader.to/user/reading-list',
 				},
 				{
-					name: 'One Piece',
-					link: 'https://www.reddit.com/r/Piracy/wiki/megathread/',
+					name: 'MangaDex',
+					link: 'https://mangadex.org/titles/follows',
 				},
 			],
 		},
@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://github.com/MeAGwen',
 				},
 				{
-					name: 'Bitwarden',
-					link: 'https://vault.bitwarden.com/#/vault',
+					name: 'Piracy',
+					link: 'https://www.reddit.com/r/Piracy/wiki/megathread/',
 				},
 				{
 					name: 'Tracker',
