@@ -139,16 +139,16 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
+					name: 'MAL',
+					link: 'https://myanimelist.net/animelist/MeAGwen',
+				},
+				{
 					name: 'HiAnime',
-					link: 'https://hianime.to/home',
+					link: 'https://hianime.to/user/watch-list',
 				},
 				{
-					name: 'TCB Scans',
-					link: 'https://tcbscans-manga.com/',
-				},
-				{
-					name: 'Bitwarden',
-					link: 'https://vault.bitwarden.com/#/vault',
+					name: 'Manga Reader',
+					link: 'https://mangareader.to/user/reading-list',
 				},
 				{
 					name: 'One Piece',
@@ -162,15 +162,15 @@ const CONFIG = {
 			links: [
 				{
 					name: 'GitHub',
-					link: 'https://github.com/',
+					link: 'https://github.com/MeAGwen',
+				},
+				{
+					name: 'Bitwarden',
+					link: 'https://vault.bitwarden.com/#/vault',
 				},
 				{
 					name: 'Tracker',
 					link: 'https://tracker.gg/valorant/profile/riot/MeowAGwen%23puppy/overview',
-				},
-				{
-					name: 'Gankster',
-					link: 'https://valorant.gankster.gg/scrims',
 				},
 				{
 					name: 'ValoPlant',
