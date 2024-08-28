@@ -147,12 +147,12 @@ const CONFIG = {
 					link: 'https://hianime.to/user/watch-list',
 				},
 				{
-					name: 'Manga Reader',
-					link: 'https://mangareader.to/user/reading-list',
-				},
-				{
 					name: 'MangaDex',
 					link: 'https://mangadex.org/titles/follows',
+				},
+				{
+					name: 'MangaReader',
+					link: 'https://mangareader.to/user/reading-list',
 				},
 			],
 		},
@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'GitHub',
-					link: 'https://github.com/MeAGwen',
+					name: 'ARRR',
+					link: 'https://www.reddit.com/r/Piracy/wiki/megathread/',
 				},
 				{
-					name: 'Piracy',
-					link: 'https://www.reddit.com/r/Piracy/wiki/megathread/',
+					name: 'GitHub',
+					link: 'https://github.com/MeAGwen',
 				},
 				{
 					name: 'Tracker',
