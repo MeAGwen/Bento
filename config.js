@@ -170,7 +170,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Tracker',
-					link: 'https://tracker.gg/valorant/profile/riot/MeowAGwen%23puppy/overview',
+					link: 'https://tracker.gg/valorant/profile/riot/gwen%23meows/overview',
 				},
 				{
 					name: 'ValoPlant',
