@@ -143,16 +143,16 @@ const CONFIG = {
 					link: 'https://myanimelist.net/animelist/MeAGwen',
 				},
 				{
+					name: 'ARGH',
+					link: 'https://www.reddit.com/r/Piracy/wiki/megathread/',
+				},
+				{
 					name: 'HiAnime',
 					link: 'https://hianime.to/user/watch-list',
 				},
 				{
-					name: 'MangaDex',
-					link: 'https://mangadex.org/titles/follows',
-				},
-				{
-					name: 'MangaReader',
-					link: 'https://mangareader.to/user/reading-list',
+					name: 'Media Sheet',
+					link: 'https://docs.google.com/spreadsheets/d/12Uxd3Oaw_Qf1PqNR-1zcK3D_OVbfbZf-OD9nJXemJbE/edit?gid=0#gid=0',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'ARRR',
-					link: 'https://www.reddit.com/r/Piracy/wiki/megathread/',
-				},
-				{
 					name: 'GitHub',
 					link: 'https://github.com/MeAGwen',
 				},
 				{
-					name: 'Tracker',
-					link: 'https://tracker.gg/valorant/profile/riot/gwen%23meows/overview',
+					name: 'Gankster',
+					link: 'https://valorant.gankster.gg/scrims',
 				},
 				{
-					name: 'ValoPlant',
+					name: 'Valoplant',
 					link: 'https://valoplant.gg/',
+				},
+				{
+					name: 'Tracker',
+					link: 'https://tracker.gg/valorant/profile/riot/100rr%20kittygirl%23gwen/overview',
 				},
 			],
 		},
